@@ -1,0 +1,42 @@
+.rbc-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+}
+.rbc-toolbar .rbc-toolbar-label {
+  font-size: 18px;
+}
+.rbc-btn-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.rbc-btn-group .rbc-btn {
+  background-color: #fff;
+  color: #007bff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.rbc-btn-group .rbc-active {
+  background-color: #007bff;
+  color: #fff;
+}
+.rbc-counts {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+}
+.rbc-counts strong {
+  font-weight: bold;
+}
+.rbc-counts span {
+  font-weight: normal;
+}

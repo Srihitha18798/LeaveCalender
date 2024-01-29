@@ -1,0 +1,15 @@
+.my-account-container {
+  text-align: center;
+  margin: 50px 10px 10px;
+}
+
+.user-details {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-details p {
+  margin: 10px 0;
+}

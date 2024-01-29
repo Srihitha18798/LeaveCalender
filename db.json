@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "username": "Srihitha",
+      "password": "Srihitha@123",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "username": "Divya",
+      "password": "Divya@1234",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "username": "Suchi",
+      "password": "Suchi@123",
+      "role": "user",
+      "id": 3
+    }
+  ],
+  "leaves": [
+    {
+      "id": 1,
+      "username": "Srihitha",
+      "fromDate": "2023-11-15",
+      "toDate": "2023-11-16",
+      "numberOfDays": "2",
+      "leaveType": "Earned Leave",
+      "status": "Approved"
+    },
+    {
+      "username": "Srihitha",
+      "fromDate": "2023-11-24",
+      "toDate": "2023-11-27",
+      "numberOfDays": "4",
+      "leaveType": "Earned Leave",
+      "status": "Approved",
+      "id": 2
+    },
+    {
+      "username": "Srihitha",
+      "fromDate": "2023-11-18",
+      "toDate": "2023-11-18",
+      "numberOfDays": "1",
+      "leaveType": "Sick leave",
+      "status": "Approved",
+      "id": 3
+    },
+    {
+      "username": "Suchi",
+      "fromDate": "2023-11-10",
+      "toDate": "2023-11-13",
+      "numberOfDays": "4",
+      "leaveType": "Earned Leave",
+      "status": "Approved",
+      "id": 4
+    },
+    {
+      "username": "Divya",
+      "fromDate": "2023-11-14",
+      "toDate": "2023-11-14",
+      "numberOfDays": "1",
+      "leaveType": "Sick leave",
+      "status": "Approved",
+      "id": 5
+    },
+    {
+      "username": "Divya",
+      "fromDate": "2023-11-22",
+      "toDate": "2023-11-23",
+      "numberOfDays": "2",
+      "leaveType": "Earned Leave",
+      "status": "Pending",
+      "id": 6
+    },
+    {
+      "username": "Divya",
+      "fromDate": "2023-11-21",
+      "toDate": "2023-11-25",
+      "numberOfDays": "4",
+      "leaveType": "Earned Leave",
+      "status": "Pending",
+      "id": 7
+    },
+    {
+      "username": "Suchi",
+      "fromDate": "2023-11-10",
+      "toDate": "2023-11-16",
+      "numberOfDays": "7",
+      "leaveType": "Earned Leave",
+      "status": "Pending",
+      "id": 8
+    },
+    {
+      "username": "Srihitha",
+      "fromDate": "2023-12-30",
+      "toDate": "2023-12-31",
+      "numberOfDays": "2",
+      "leaveType": "Sick leave",
+      "status": "Pending",
+      "id": 9
+    },
+    {
+      "username": "Srihitha",
+      "fromDate": "2024-01-11",
+      "toDate": "2024-01-12",
+      "numberOfDays": "2",
+      "leaveType": "Sick leave",
+      "status": "Pending",
+      "id": 10
+    }
+  ]
+}
